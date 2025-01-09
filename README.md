@@ -1,4 +1,4 @@
-# R Code for "Handling incomplete outcomes and covariates in cluster-randomized trials: doubly-robust estimation, efficiency considerations, and sensitivity analysis"
+# R Code for "Test-negative designs with various reasons for testing: statistical bias and solution"
 
 ## Paper
 
